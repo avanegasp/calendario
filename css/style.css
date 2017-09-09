@@ -1,0 +1,13 @@
+.container{
+  margin-top: 50px;
+}
+
+
+.col{
+  border: 1px solid black;
+  padding: 30px;
+}
+
+p{
+  float: right;
+}
